@@ -40,6 +40,7 @@ const Clock = ({city, timezone, flag}) => {
         <Clock city="Londres" timezone= "Europe/London" flag="england"/>
         <Clock city="Tokio" timezone= "Asia/Tokyo" flag="japan"/>
         <Clock city="México" timezone="America/Mexico_City" flag="mexico"/>
+        <Clock city="Madrid" timezone="Europe/Madrid" flag="spain" />
       </div>
     </div>
 
