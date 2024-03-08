@@ -1,6 +1,8 @@
 import React, {useState, useEffect} from "react";
 import "./App.css";
 
+
+
 const Clock = ({city, timezone, flag}) => {
   const [time, setTime] = useState (new Date());
 
@@ -34,13 +36,14 @@ const Clock = ({city, timezone, flag}) => {
   function App() {
    return (
     <div className="App">
-      <h1>World Clock</h1>
+      <h1>WORLD CLOCK</h1>
       <div className="clock-container">
-        <Clock city="New York" timezone= "America/New_York" flag="usa"/>
-        <Clock city="Londres" timezone= "Europe/London" flag="england"/>
-        <Clock city="Tokio" timezone= "Asia/Tokyo" flag="japan"/>
-        <Clock city="México" timezone="America/Mexico_City" flag="mexico"/>
-        <Clock city="Madrid" timezone="Europe/Madrid" flag="spain" />
+        <Clock city="EE UU" timezone= "America/New_York" flag="usa"/>
+        <Clock city="ENGLAND" timezone= "Europe/London" flag="england"/>
+        <Clock city="JAPAN" timezone= "Asia/Tokyo" flag="japan"/>
+        <Clock city="MEXICO" timezone="America/Mexico_City" flag="mexico"/>
+        <Clock city="ESPAÑA" timezone="Europe/Madrid" flag="spain" />
+        <Clock city="ARGENTINA" timezone="America/Argentina/Buenos_Aires" flag="argentina" />
       </div>
     </div>
 
