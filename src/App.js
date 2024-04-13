@@ -22,7 +22,7 @@ const Clock = ({ city, timezone, flag }) => {
   const formattedTime = new Intl.DateTimeFormat("en-US", options).format(time);
 
   // Cambié la línea siguiente
-  const imagePath = `/flags/${flag}.png`;
+  const imagePath = `${process.env.PUBLIC_URL}/flags/${flag}.png`;
   console.log("Ruta de la imagen:", imagePath);
 
   return (
