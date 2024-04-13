@@ -2,7 +2,7 @@
   "name": "reloj-mundial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/TomasElianMilanesio/reloj-mundial",
+  "homepage": "https://tomaselianmilanesio.github.io/reloj-mundial",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
