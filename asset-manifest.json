@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TomasElianMilanesio/reloj-mundial/static/css/main.a296b7b0.css",
+    "main.js": "/TomasElianMilanesio/reloj-mundial/static/js/main.64426c45.js",
+    "index.html": "/TomasElianMilanesio/reloj-mundial/index.html",
+    "main.a296b7b0.css.map": "/TomasElianMilanesio/reloj-mundial/static/css/main.a296b7b0.css.map",
+    "main.64426c45.js.map": "/TomasElianMilanesio/reloj-mundial/static/js/main.64426c45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a296b7b0.css",
+    "static/js/main.64426c45.js"
+  ]
+}
