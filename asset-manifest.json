@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TomasElianMilanesio/reloj-mundial/static/css/main.a296b7b0.css",
-    "main.js": "/TomasElianMilanesio/reloj-mundial/static/js/main.ce2b1fdd.js",
-    "index.html": "/TomasElianMilanesio/reloj-mundial/index.html",
-    "main.a296b7b0.css.map": "/TomasElianMilanesio/reloj-mundial/static/css/main.a296b7b0.css.map",
-    "main.ce2b1fdd.js.map": "/TomasElianMilanesio/reloj-mundial/static/js/main.ce2b1fdd.js.map"
+    "main.css": "/reloj-mundial/static/css/main.a296b7b0.css",
+    "main.js": "/reloj-mundial/static/js/main.e9d1be45.js",
+    "index.html": "/reloj-mundial/index.html",
+    "main.a296b7b0.css.map": "/reloj-mundial/static/css/main.a296b7b0.css.map",
+    "main.e9d1be45.js.map": "/reloj-mundial/static/js/main.e9d1be45.js.map"
   },
   "entrypoints": [
     "static/css/main.a296b7b0.css",
-    "static/js/main.ce2b1fdd.js"
+    "static/js/main.e9d1be45.js"
   ]
 }
